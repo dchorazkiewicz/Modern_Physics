@@ -169,7 +169,6 @@ $$
 &= m \int_{\vec{v}_1}^{\vec{v}_2} v \, dv \\
 &= \frac{1}{2} m v^2_2 - \frac{1}{2} m v^2_1 = E_{k2} - E_{k1}
 \end{aligned}
-
 $$
 
 gdzie wyrażenie $E_{k}$ nazwane jest energią kinetyczną ciała! Widać z powyższego wzoru, że praca siły jest równa zmianie energii kinetycznej ciała. Dodatkowo jeśli siła jest siłą potencjalną to praca siły jest równa zmianie energii potencjalnej ciała.
