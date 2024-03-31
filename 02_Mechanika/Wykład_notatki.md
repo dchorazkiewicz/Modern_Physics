@@ -157,7 +157,7 @@ Policzmy wyrażenie
 
 $$\int_{\vec{r}_1}^{\vec{r}_2} \vec{F} \cdot d\vec{r}$$
 
-w ogólnym przypadku
+w ogólnym przypadku mamy
 
 $$
 \begin{aligned}
