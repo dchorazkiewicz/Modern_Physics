@@ -161,7 +161,13 @@ w ogólnym przypadku
 
 $$
 \begin{aligned}
-\int_{\vec{r}_1}^{\vec{r}_2} \vec{F} \cdot d\vec{r} &= \int_{\vec{r}_1}^{\vec{r}_2} m\vec{a} \cdot d\vec{r} 
+\int_{\vec{r}_1}^{\vec{r}_2} \vec{F} \cdot d\vec{r} &= \int_{\vec{r}_1}^{\vec{r}_2} m\vec{a} \cdot d\vec{r} \\
+&= m \int_{\vec{r}_1}^{\vec{r}_2} \vec{a} \cdot d\vec{r} \\
+&= m \int_{\vec{r}_1}^{\vec{r}_2} \frac{d\vec{v}}{dt} \cdot d\vec{r} \\
+&= m \int_{\vec{r}_1}^{\vec{r}_2} \frac{d\vec{v}}{dt} \cdot \vec{v} \, dt \\
+&= m \int_{\vec{v}_1}^{\vec{v}_2} \vec{v} \cdot d\vec{v} \\
+&= m \int_{\vec{v}_1}^{\vec{v}_2} v \, dv \\
+&= \frac{1}{2} m v^2_2 - \frac{1}{2} m v^2_1 = E_{k2} - E_{k1}
 \end{aligned}
 $$
 
