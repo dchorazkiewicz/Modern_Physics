@@ -181,7 +181,6 @@ $$
 &= -\left[U(\vec{r}_2) - U(\vec{r}_1)\right] \\
 &= U(\vec{r}_1) - U(\vec{r}_2)
 \end{aligned}
-
 $$
 
 gdzie wyrażenie $U$ nazwane jest energią potencjalną ciała! Widać z powyższego wzoru, że praca siły jest równa zmianie energii potencjalnej ciała.
