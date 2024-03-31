@@ -425,5 +425,19 @@ $$
 \theta(t) = A \cos(\omega t + \phi)
 $$
 
+Bardziej skomplikowane układu oscylatorów można opisać za pomocą równań różniczkowych zwyczajnych drugiego rzędu. Przykładem takiego układu jest układ
+podpora-spężyna-masa-sprężyna-masa-sprężyna-podpora:
+
+$$
+\begin{cases}
+m_1 \ddot{x_1} = -k_1 (x_1 - l_0) - k_2 (x_2 - x_1 - l_0) \\
+m_2 \ddot{x_2} = k_2 (x_2 - x_1 - l_0)- k_3 (x_2 - L + l_0)
+\end{cases}
+$$
+
+układy tego typu można rozwiązać numerycznie co zostało pokazane w notatniku "Układy oscylatorów". Najważniejszą wnioskiem z tego notatnika jest to, że układy oscylatorów mogą wykazywać własności falowe!
+
+
+
 
  
