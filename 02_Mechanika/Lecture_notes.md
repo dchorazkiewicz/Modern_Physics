@@ -10,6 +10,10 @@ co można zapisać jako $\vec{r} = \vec{r}(t)$.
 
 ### Prędkość
 
+[Prędkość](https://pl.wikipedia.org/wiki/Pr%C4%99dko%C5%9B%C4%87)
+
+[Velocity](https://en.wikipedia.org/wiki/Velocity)
+
 Prędkość ciała to pochodna położenia ciała po czasie. W zapisie wektorowym prędkość ciała
 
 $$
@@ -18,6 +22,11 @@ $$
 
 
 ### Przyspieszenie
+
+[Przyspieszenie](https://pl.wikipedia.org/wiki/Przyspieszenie)
+
+[Acceleration](https://en.wikipedia.org/wiki/Acceleration)
+
 
 Przyspieszenie ciała to pochodna prędkości ciała po czasie. W zapisie wektorowym przyspieszenie ciała
 
@@ -33,6 +42,10 @@ $$
 
 
 ## Prawa Newtona (I, II, III)
+
+[Prawa dynamiki Newtona](https://pl.wikipedia.org/wiki/Zasady_dynamiki_Newtona)
+
+[Newton's laws of motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
 
 ### I prawo dynamiki
 
@@ -104,6 +117,10 @@ Mówiąc to prostymi słowami, aby obliczyć położenie ciała w chwili $t + \D
 
 ## Praca 
 
+[Praca](https://pl.wikipedia.org/wiki/Praca_(fizyka))
+
+[Work_(physics)](https://en.wikipedia.org/wiki/Work_(physics))
+
 Załóżmu, że na ciało działa siła $\vec{F}$ i ciało przesuwa się o wektor $\vec{r}$. Praca siły $\vec{F}$ jest równa iloczynowi skalarnemu siły $\vec{F}$ i przesunięcia $\vec{r}$.
 
 
@@ -118,11 +135,15 @@ $$
 [https://pl.wikipedia.org/wiki/Ca%C5%82ka_krzywoliniowa](https://pl.wikipedia.org/wiki/Ca%C5%82ka_krzywoliniowa)
 
 
-## Siły potencjalne
+## Siły zachowawcze
 
-Siła potencjalna to siła, której praca nie zależy od drogi jaką pokonało ciało. W zapisie matematycznym siłę potencjalną można zapisać jako gradient funkcji potencjału.
+[Siła potencjalna](https://pl.wikipedia.org/wiki/Si%C5%82a_zachowawcza)
 
-Przyładem siły potencjalnej jest siła grawitacyjna
+[Conservative force](https://en.wikipedia.org/wiki/Conservative_force)
+
+Siła zachowawcza to siła, której praca nie zależy od drogi jaką pokonało ciało. W zapisie matematycznym siłę potencjalną można zapisać jako gradient funkcji potencjału.
+
+Przyładem siły zachowawczej jest siła grawitacyjna
 
 $$
 \vec{F} = -\nabla U
@@ -152,6 +173,14 @@ Więcej informacji na temat potencjału można znaleźć w artykule na wikipedii
 [Potencjał](https://pl.wikipedia.org/wiki/Potencja%C5%82#:~:text=Potencjalne%20pola%20si%C5%82%20niezale%C5%BCnych%20od,w%20drug%C4%85%20w%20trakcie%20ruchu.)
 
 ## Energia kinetyczna i potencjalna, zachowanie energii mechanicznej
+
+[Energia kinetyczna](https://pl.wikipedia.org/wiki/Energia_kinetyczna)
+
+[Kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy)
+
+[Energia potencjalna](https://pl.wikipedia.org/wiki/Energia_potencjalna)
+
+[Potential energy](https://en.wikipedia.org/wiki/Potential_energy)
 
 Policzmy wyrażenie 
 
@@ -219,6 +248,10 @@ $$
 
 ### Przypadek siły grawitacyjnej
 
+[Siła grawitacyjna](https://pl.wikipedia.org/wiki/Grawitacja)
+
+[Gravitational_force](https://en.wikipedia.org/wiki/Gravitational_force)
+
 Dla siły grawitacyjnej $ \vec{F} = -\frac{G M m}{r^2} \hat{r}$ mamy
 
 $$
@@ -228,6 +261,10 @@ $$
 gdzie $v_1$ i $v_2$ to prędkości ciała w chwilach $t_1$ i $t_2$ oraz $r_1$ i $r_2$ to odległości ciała od ciała centralnego w chwilach $t_1$ i $t_2$.
 
 ### Rrzut ukośny
+
+[Rzut ukośny](https://pl.wikipedia.org/wiki/Rzut_uko%C5%9Bny_(fizyka))
+
+[Projectile motion](https://en.wikipedia.org/wiki/Projectile_motion)
 
 W odległościach niedalkich powierzchni ziemi przyspieszenie ziemskie jest stałe i wynosi $g = 9.81 \frac{m}{s^2}$. Dla takiego układu siłę grawitacyjną można zapisać jako
 
@@ -243,6 +280,10 @@ $$
 
 
 ## Zasada zachowania pędu
+
+[Zasada zachowania pędu](https://pl.wikipedia.org/wiki/Zasada_zachowania_p%C4%99du)
+
+[Momentum Conservation](https://en.wikipedia.org/wiki/Momentum#Conservation)
 
 Pęd zdefiniowany jest jako iloczyn masy ciała i prędkości ciała
 
