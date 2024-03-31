@@ -161,19 +161,28 @@ w ogólnym przypadku
 
 
 $$\int_{\vec{r}_1}^{\vec{r}_2} \vec{F} \cdot d\vec{r} = \int_{\vec{r}_1}^{\vec{r}_2} m\vec{a} \cdot d\vec{r}$$
+
 $$= m \int_{\vec{r}_1}^{\vec{r}_2} \vec{a} \cdot d\vec{r}$$
+
 $$= m \int_{\vec{r}_1}^{\vec{r}_2} \frac{d\vec{v}}{dt} \cdot d\vec{r}$$
+
 $$= m \int_{\vec{r}_1}^{\vec{r}_2} \frac{d\vec{v}}{dt} \cdot \vec{v} \, dt$$
+
 $$= m \int_{\vec{v}_1}^{\vec{v}_2} \vec{v} \cdot d\vec{v}$$
+
 $$= m \int_{\vec{v}_1}^{\vec{v}_2} v \, dv$$
+
 $$= \frac{1}{2} m v^2_2 - \frac{1}{2} m v^2_1 = E_{k2} - E_{k1}$$
 
 
 gdzie wyrażenie $E_{k}$ nazwane jest energią kinetyczną ciała! Widać z powyższego wzoru, że praca siły jest równa zmianie energii kinetycznej ciała. Dodatkowo jeśli siła jest siłą potencjalną to praca siły jest równa zmianie energii potencjalnej ciała.
 
 $$\int_{\vec{r}_1}^{\vec{r}_2} \vec{F} \cdot d\vec{r} = \int_{\vec{r}_1}^{\vec{r}_2} (-\nabla U) \cdot d\vec{r}$$
+
 $$= -\int_{\vec{r}_1}^{\vec{r}_2} \nabla U \cdot d\vec{r}$$
+
 $$= -\left[U(\vec{r}_2) - U(\vec{r}_1)\right]$$
+
 $$= U(\vec{r}_1) - U(\vec{r}_2)$$
 
 
