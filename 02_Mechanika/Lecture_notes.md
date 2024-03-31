@@ -160,7 +160,9 @@ $$\int_{\vec{r}_1}^{\vec{r}_2} \vec{F} \cdot d\vec{r}$$
 w ogólnym przypadku
 
 
-$$\int_{\vec{r}_1}^{\vec{r}_2} \vec{F} \cdot d\vec{r} = \int_{\vec{r}_1}^{\vec{r}_2} m\vec{a} \cdot d\vec{r}$$
+$$\int_{\vec{r}_1}^{\vec{r}_2} \vec{F} \cdot d\vec{r}$$
+
+$$ \int_{\vec{r}_1}^{\vec{r}_2} m\vec{a} \cdot d\vec{r}$$
 
 $$= m \int_{\vec{r}_1}^{\vec{r}_2} \vec{a} \cdot d\vec{r}$$
 
