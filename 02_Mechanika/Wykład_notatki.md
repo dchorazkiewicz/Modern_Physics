@@ -268,7 +268,6 @@ $$
 W układzie izolowanym moment pędu ciała jest stały
 
 $$
-
 \vec{L}_1 = \vec{L}_2
 $$
 
