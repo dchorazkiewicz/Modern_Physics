@@ -91,8 +91,9 @@ Mówiąc to prostymi słowami, aby obliczyć położenie ciała w chwili $t + \D
 
 Załóżmu, że na ciało działa siła $\vec{F}$ i ciało przesuwa się o wektor $\vec{r}$. Praca siły $\vec{F}$ jest równa iloczynowi skalarnemu siły $\vec{F}$ i przesunięcia $\vec{r}$.
 
-![Praca_01](https://upload.wikimedia.org/wikipedia/commons/7/73/Mehaaniline_t%C3%B6%C3%B6.png)
+![Praca_01](https://upload.wikimedia.org/wikipedia/commons/1/12/Mehaaniline_t%C3%B6%C3%B6.png)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Mehaaniline_t%C3%B6%C3%B6.png" alt="Praca_01" width="200"/>
 
 ## Siły potencjalne
 
