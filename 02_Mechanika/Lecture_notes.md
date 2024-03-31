@@ -10,9 +10,7 @@ co można zapisać jako $\vec{r} = \vec{r}(t)$.
 
 ### Prędkość
 
-[Prędkość](https://pl.wikipedia.org/wiki/Pr%C4%99dko%C5%9B%C4%87)
-
-[Velocity](https://en.wikipedia.org/wiki/Velocity)
+[Prędkość](https://pl.wikipedia.org/wiki/Pr%C4%99dko%C5%9B%C4%87), [Velocity](https://en.wikipedia.org/wiki/Velocity)
 
 Prędkość ciała to pochodna położenia ciała po czasie. W zapisie wektorowym prędkość ciała
 
@@ -23,9 +21,7 @@ $$
 
 ### Przyspieszenie
 
-[Przyspieszenie](https://pl.wikipedia.org/wiki/Przyspieszenie)
-
-[Acceleration](https://en.wikipedia.org/wiki/Acceleration)
+[Przyspieszenie](https://pl.wikipedia.org/wiki/Przyspieszenie), [Acceleration](https://en.wikipedia.org/wiki/Acceleration)
 
 
 Przyspieszenie ciała to pochodna prędkości ciała po czasie. W zapisie wektorowym przyspieszenie ciała
@@ -43,9 +39,7 @@ $$
 
 ## Prawa Newtona (I, II, III)
 
-[Prawa dynamiki Newtona](https://pl.wikipedia.org/wiki/Zasady_dynamiki_Newtona)
-
-[Newton's laws of motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+[Prawa dynamiki Newtona](https://pl.wikipedia.org/wiki/Zasady_dynamiki_Newtona), [Newton's laws of motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
 
 ### I prawo dynamiki
 
@@ -117,9 +111,7 @@ Mówiąc to prostymi słowami, aby obliczyć położenie ciała w chwili $t + \D
 
 ## Praca 
 
-[Praca](https://pl.wikipedia.org/wiki/Praca_(fizyka))
-
-[Work_(physics)](https://en.wikipedia.org/wiki/Work_(physics))
+[Praca](https://pl.wikipedia.org/wiki/Praca_(fizyka)), [Work_(physics)](https://en.wikipedia.org/wiki/Work_(physics))
 
 Załóżmu, że na ciało działa siła $\vec{F}$ i ciało przesuwa się o wektor $\vec{r}$. Praca siły $\vec{F}$ jest równa iloczynowi skalarnemu siły $\vec{F}$ i przesunięcia $\vec{r}$.
 
@@ -174,13 +166,9 @@ Więcej informacji na temat potencjału można znaleźć w artykule na wikipedii
 
 ## Energia kinetyczna i potencjalna, zachowanie energii mechanicznej
 
-[Energia kinetyczna](https://pl.wikipedia.org/wiki/Energia_kinetyczna)
+[Energia kinetyczna](https://pl.wikipedia.org/wiki/Energia_kinetyczna), [Kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy)
 
-[Kinetic energy](https://en.wikipedia.org/wiki/Kinetic_energy)
-
-[Energia potencjalna](https://pl.wikipedia.org/wiki/Energia_potencjalna)
-
-[Potential energy](https://en.wikipedia.org/wiki/Potential_energy)
+[Energia potencjalna](https://pl.wikipedia.org/wiki/Energia_potencjalna), [Potential energy](https://en.wikipedia.org/wiki/Potential_energy)
 
 Policzmy wyrażenie 
 
@@ -242,15 +230,11 @@ $$
 E_{k1} + U_1 = E_{k2} + U_2
 $$
 
-[Zasada_zachowania_energii](https://pl.wikipedia.org/wiki/Zasada_zachowania_energii)
-
-[Conservation_of_energy](https://en.wikipedia.org/wiki/Conservation_of_energy)
+[Zasada_zachowania_energii](https://pl.wikipedia.org/wiki/Zasada_zachowania_energii), [Conservation_of_energy](https://en.wikipedia.org/wiki/Conservation_of_energy)
 
 ### Przypadek siły grawitacyjnej
 
-[Siła grawitacyjna](https://pl.wikipedia.org/wiki/Grawitacja)
-
-[Gravitational_force](https://en.wikipedia.org/wiki/Gravitational_force)
+[Siła grawitacyjna](https://pl.wikipedia.org/wiki/Grawitacja), [Gravitational_force](https://en.wikipedia.org/wiki/Gravitational_force)
 
 Dla siły grawitacyjnej $ \vec{F} = -\frac{G M m}{r^2} \hat{r}$ mamy
 
@@ -262,9 +246,7 @@ gdzie $v_1$ i $v_2$ to prędkości ciała w chwilach $t_1$ i $t_2$ oraz $r_1$ i 
 
 ### Rrzut ukośny
 
-[Rzut ukośny](https://pl.wikipedia.org/wiki/Rzut_uko%C5%9Bny_(fizyka))
-
-[Projectile motion](https://en.wikipedia.org/wiki/Projectile_motion)
+[Rzut ukośny](https://pl.wikipedia.org/wiki/Rzut_uko%C5%9Bny_(fizyka)), [Projectile motion](https://en.wikipedia.org/wiki/Projectile_motion)
 
 W odległościach niedalkich powierzchni ziemi przyspieszenie ziemskie jest stałe i wynosi $g = 9.81 \frac{m}{s^2}$. Dla takiego układu siłę grawitacyjną można zapisać jako
 
@@ -281,9 +263,7 @@ $$
 
 ## Zasada zachowania pędu
 
-[Zasada zachowania pędu](https://pl.wikipedia.org/wiki/Zasada_zachowania_p%C4%99du)
-
-[Momentum Conservation](https://en.wikipedia.org/wiki/Momentum#Conservation)
+[Zasada zachowania pędu](https://pl.wikipedia.org/wiki/Zasada_zachowania_p%C4%99du), [Momentum Conservation](https://en.wikipedia.org/wiki/Momentum#Conservation)
 
 Pęd zdefiniowany jest jako iloczyn masy ciała i prędkości ciała
 
@@ -308,9 +288,7 @@ $$
 m_A \vec{v}_{A1} + m_B \vec{v}_{B1} = m_A \vec{v}_{A2} + m_B \vec{v}_{B2}
 $$
 
-[Zasada zachowania pędu](https://pl.wikipedia.org/wiki/Zasada_zachowania_p%C4%99du)
-
-[Momentum Conservation](https://en.wikipedia.org/wiki/Momentum#Conservation)
+[Zasada zachowania pędu](https://pl.wikipedia.org/wiki/Zasada_zachowania_p%C4%99du), [Momentum Conservation](https://en.wikipedia.org/wiki/Momentum#Conservation)
 
 
 ## Zasad zachowania momentu pędu
@@ -333,9 +311,7 @@ $$
 W skróce można powiedzieć, że jeżeli układ fizyczny jest niezmienniczy względem pewnej transformacji to wielkość fizyczna jest zachowana. Zasada zachowania energii wynika z niezmienniczości układu względem przesunięcia w czasie. Zasada zachowania pędu wynika z niezmienniczości układu względem przesunięcia w przestrzeni. Zasada zachoawania momentu pędu wynika z niezmienniczości układu względem obrotu.
 
 
-[Twierdzenie_Noether](https://pl.wikipedia.org/wiki/Twierdzenie_Noether)
-
-[Noether's Theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem)
+[Twierdzenie_Noether](https://pl.wikipedia.org/wiki/Twierdzenie_Noether), [Noether's Theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem)
 
 ## Rzut ukośny, ruch po okręgu, oscylacje, układy oscylatorów -> zjawiska falowe
 
