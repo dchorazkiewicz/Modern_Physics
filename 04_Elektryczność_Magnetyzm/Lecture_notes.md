@@ -142,5 +142,3 @@ gdzie:
 - $\varepsilon_0$ to przenikalność elektryczna próżni,
 - $\mu_0$ to przenikalność magnetyczna próżni,
 - $\vec{J}$ to gęstość prądu elektrycznego.
-
-### Równania Maxwella w postaci znormalizowanej
