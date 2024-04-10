@@ -27,7 +27,7 @@ Zobacz notnik ../01_Mechanika/Układy_oscylatorów.md.
 
 * prędkość fali $v$ - zależy od ośrodka, w którym się rozchodzi
 * długość fali $\lambda$- odległość między dwoma kolejnymi punktami o tej samej fazie
-* częstotliwość $\ni$- liczba drgań na sekundę
+* częstotliwość $f$- liczba drgań na sekundę
 
 związek między prędkością, długością fali i częstotliwością:
 
