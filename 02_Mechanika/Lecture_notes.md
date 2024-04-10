@@ -3,7 +3,7 @@
 ## Opis ruchu (położenie, prędkość, przyspieszenie)
 
 ### Położenie 
-Aby zdefiniować ruch wystarczy abyśmy znali położenie ciała w danej chwili czasu. 
+Aby opisać ruch wystarczy abyśmy znali położenie ciała w danej chwili czasu. 
 W mechanice klasycznej położenie ciała w przestrzeni trójwymiarowej opisuje się za pomocą
 wektora $\vec{r}(t) = (x(t), y(t), z(t))$. W zależności od czasu położenie ciała zmienia się,
 co można zapisać jako $\vec{r} = \vec{r}(t)$.
