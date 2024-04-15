@@ -37,7 +37,7 @@ class NewtonSolverIVP3D:
         velocity = solution.y[3:]
         return solution.t, position, velocity  # Return time, position, and velocity arrays as 3D vectors
 
-# Correcting the mistake by ensuring that _equations_of_motion returns a 6-element array with both velocity and acceleration components.
+
 
 if __name__ == '__main__':
 
