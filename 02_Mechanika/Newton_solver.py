@@ -44,7 +44,7 @@ if __name__ == '__main__':
     # Define the force function for a simple harmonic oscillator in 3D
     def simple_harmonic_oscillator(t, position, velocity):
         k = 1.0  # Spring constant
-        return [-k * position[0], -k * position[1]*np.abs(position[1]), -k * position[2]]
+        return [-k * position[0], -k * position[1], -k * position[2]]
 
     # Create a NewtonSolver object for a 3D simple harmonic oscillator
     solver = NewtonSolverIVP3D()
