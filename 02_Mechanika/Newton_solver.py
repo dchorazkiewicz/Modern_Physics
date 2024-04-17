@@ -40,7 +40,9 @@ class NewtonSolverIVP3D:
 
 
 if __name__ == '__main__':
-
+    #-------------------------------------------------------------------------
+    # Przykład użycia 1
+    
     # Define the force function for a simple harmonic oscillator in 3D
     def simple_harmonic_oscillator(t, position, velocity):
         k = 1.0  # Spring constant
@@ -61,4 +63,31 @@ if __name__ == '__main__':
     ax.set_xlabel('x')
     ax.set_ylabel('y')
     plt.show()
+
+
+    #-------------------------------------------------------------------------
+    # Przykład użycia 2
+    def projectile_motion(t, position, velocity):
+        g = 9.81  # przyspieszenie ziemskie
+        return [0, -g, 0]  # Siła grawitacji działająca tylko na osi y
+    
+    x0, y0 = 0, 0
+    vx0, vy0 = 100, 100
+
+    # Tworzenie obiektu solvera
+    solver = NewtonSolverIVP3D()
+    solver.add_force(projectile_motion)  # Dodanie funkcji siły
+    solver.set_initial_conditions([x0, y0, 0], [vx0, vy0, 0])  # Ustawienie warunków początkowych
+    solver.set_mass(1.0)  # Masa
+    t, position, velocity = solver.solve_motion([0, 30], time_step=0.01)  # Rozwiązanie ruchu, zakładając obserwację przez 5 sekund
+
+    # Rysowanie trajektorii
+    import matplotlib.pyplot as plt
+    fig, ax = plt.subplots()
+    ax.plot(position[0], position[1])
+    ax.set_xlabel('x')
+    ax.set_ylabel('y')
+    ax.set_ylim(0, 600)
+    plt.show()
+
 
